@@ -14,8 +14,23 @@ You can also establish an EP930 misuse or negligence determination claim from th
 
 claim you want to establish. See Establishing EP930 FID-Rev Claims for more information.
 
-![Screenshot — page 95](./images/page-095-img-1.png)
+![UI screenshot: Vernatiainy >) General Overview [seresoeVisise | | +EPEOREYNegienceOeeraten |||](./images/page-095-img-1.png)
 *Screenshot — page 95 (1299×536 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Vernatiainy >) General Overview [seresoeVisise | | +EPEOREYNegienceOeeraten |||
+‘Allegation mmidd/y; @
+* GALLAGHER, ALYSSA
+Determination Fiduciary
+Reconsideration Temporary ~
+saad Fiduciary Relationship.
+(oc
+```
+
+</details>
 
 ### Negligence Determinations
 
@@ -61,8 +76,32 @@ Several read-only fields are populated from the EP290 FID-Misuse claim or the as
 
 • Completed shows the date when the claim is cleared. • Cycle Days shows the number of days the claim has had the current suspense reason. • Days Pending shows the number of days the claim has been pending. • Veteran File Number is populated from the Veteran associated with the beneficiary. • Territory and Hub are populated based on the physical address of the associated beneficiary.
 
-![Screenshot — page 97](./images/page-097-img-1.png)
+![UI screenshot: View AustHisioy > | General Overview FEPOI0-REV Misuse | [ +EP930-REV Negigence](./images/page-097-img-1.png)
 *Screenshot — page 97 (1299×466 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+View AustHisioy > | General Overview FEPOI0-REV Misuse | [ +EP930-REV Negigence Determination | |
+SUSE RECORDS
+‘Aegaton f a
+mvesigaion Beneteiary
+“7 GALLAGHER, ALYSSAGE
+Deternnaton relary
+No misuse Found @ GlLMoRE, HAPPY gg
+Meuse Found velar Type
+Reconsieraon Temporary -
+‘IRC Reteral Fiuciay Relationship
+vaco other ¥
++ Fiduciary is 8 Court Appointee Guarian or Conservator
+Yes .
+Competed
+cycle Days ’
+(oc
+```
+
+</details>
 
 #### Allegation
 
@@ -72,11 +111,38 @@ You can also generate and manage VA-Form 21-3537a - Report of Field Examination 
 
 To generate the VA Form 21-3537a, select Add VA-Form 21-3537a. From the dialog, enter the date and text you wish to appear in the report in the Facts to be Established field, and select Save VA-Form 21-3537a.
 
-![Screenshot — page 98, figure 1 of 2](./images/page-098-img-1.png)
+![UI screenshot: Yew anatrisoy > Dy](./images/page-098-img-1.png)
 *Screenshot — page 98, figure 1 of 2 (1299×489 px)*
 
-![Screenshot — page 98, figure 2 of 2](./images/page-098-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Yew anatrisoy > Dy
+MISUSE RECORDS Allegatio
+General Overview How Discovered Who Reportes
+Allegation Date ror
+Determination. - 1
+seve
+‘Misuse Found Investigation Warranted
+. ‘gs Allegation Complete
+eee ire . _
+```
+
+</details>
+
+![UI screenshot: “ VA-Form 21-3537 ‘DROBIN_FARCLES ‘OPEN c=]](./images/page-098-img-2.png)
 *Screenshot — page 98, figure 2 of 2 (1299×336 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+“ VA-Form 21-3537 ‘DROBIN_FARCLES ‘OPEN c=]
+— sass 5
+```
+
+</details>
 
 Once you have generated the report, the form is listed in the table. The Add VA-Form 21- 3537a button becomes inactive because only one form can be in an open status at a time.
 
@@ -86,8 +152,17 @@ To delete the report, select Discard. From the dialog, select Discard. The repor
 
 To preview and finalize the report, select Preview. From the dialog, you can review the report and select Generate Letter. The report is placed in a Completed status. To view the report, select View.
 
-![Screenshot — page 99](./images/page-099-img-1.png)
+![UI screenshot: sinanens [=]](./images/page-099-img-1.png)
 *Screenshot — page 99 (1299×461 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+sinanens [=]
+```
+
+</details>
 
 #### Investigation
 
@@ -99,11 +174,59 @@ This section shows dates, evidence, and signatures associated with the determina
 
 Preparers, reviewers, and approvers can electronically sign the Misuse Determination Memo, add and view associated evidence, and preview the memo. See Misuse Determination and Allegation Memos for more information.
 
-![Screenshot — page 100, figure 1 of 2](./images/page-100-img-1.png)
+![UI screenshot: View Audit History >](./images/page-100-img-1.png)
 *Screenshot — page 100, figure 1 of 2 (1299×593 px)*
 
-![Screenshot — page 100, figure 2 of 2](./images/page-100-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+View Audit History >
+Investigation
+MISUSE RECORDS
+General Overview Investigation Established Investigation Complete
+Allegation 10/01/2023 a 10/20/2023 c=
+Investigation
+Determination Generate VA Form 21-3537b
+No Misuse Found
+Misuse Found + Add VA-Form 21-3537b
+IGIRC Referral
+VA-Form 21-3537 Mi FMA7 PEN
+VACO
+VA-Form 21-3537 RMENDO_FMA7 COMPLETED
+@View
+```
+
+</details>
+
+![UI screenshot: Cz» Determination](./images/page-100-img-2.png)
 *Screenshot — page 100, figure 2 of 2 (1299×437 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Cz» Determination
+MISUSE RECORDS
+Determination Established Date Determination Signed By Approval Author
+General Overview snes ey ARN =
+08/04/2021 é 08/13/2021 é
+— Determination Complete Determination Sent
+Investigation 08/13/2021 6 08/12/2021 a
+ao Determination Facts
+No Misuse Found Unauthorized use of funds
+Preparer Station Date Time of Preparation (GMT) Preparer E-Signature
+Misuse Found
+RAFA DOZA 319 - Columbia Regional Office 08/20/2021 07:27:20 PM
+Reconsideration Reviewer Station Date Time of Review (GMT) Reviewer E-Signature
+IGIRC Referral | Review |
+Rao Approver Station Date Time of Approval (GMT) Approver E-Signature
+Report of Field Exam
+Folder Evidence
+Received Date (GMT) Selected EFolder Evidence
+```
+
+</details>
 
 #### No Misuse Found
 
@@ -115,14 +238,78 @@ This section shows the Misuse Found details. Required fields may vary based on t
 
 To indicate Reissuance Completed for an EP290 FID-Negligence Determination claim, a value must be entered for BD Number (Finance).
 
-![Screenshot — page 101, figure 1 of 3](./images/page-101-img-1.png)
+![UI screenshot: ; EFolder Evidence](./images/page-101-img-1.png)
 *Screenshot — page 101, figure 1 of 3 (1299×334 px)*
 
-![Screenshot — page 101, figure 2 of 3](./images/page-101-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+; EFolder Evidence
+Reconsideration
+Received Date (GMT) Selected EFolder Evidence
+IGIRC Referral
+er) osio2i004 gg Locate Beneficiary Later
+Report of Field Exam
+Add/Remove EFolder Evidence
+VAForm Evidence
+| + Aaa va Form Evisence |
+Preview Misuse Determination Memo
+{ Preview Memo
+```
+
+</details>
+
+![UI screenshot: UIEVPACOR PISO](./images/page-101-img-2.png)
 *Screenshot — page 101, figure 2 of 3 (1299×246 px)*
 
-![Screenshot — page 101, figure 3 of 3](./images/page-101-img-3.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+UIEVPACOR PISO
+No Misuse Found
+MISUSE RECORDS
+General Overview
+No Misuse Date
+Allegation a
+Investigation Notes
+Determination
+No Misuse Found
+```
+
+</details>
+
+![UI screenshot: Misuse Found](./images/page-101-img-3.png)
 *Screenshot — page 101, figure 3 of 3 (1299×562 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Misuse Found
+MISUSE RECORDS
+General Overview Misuse Found
+Allegation Yes ’
+Investigation + Misuse Period Start Date * Misuse Period End Date
+Determination 11/01/2022 a 11/30/2022 6
+BD Number (Finance)
+No Misuse Found
+123456789
+Misuse Found Total Misuse Amount Collected Misuse Amount
+Reconsideration $ 200.00 $ 633.00
+eTero) + Amount of Misuse VA Funds + Amount of Misuse Other Funds
+$ 600.00 $ | 33.00
+vaco eos -
+‘Automatic Reissuance Required ‘Amount Reissued Date Reissued
+Report of Field Exam 1 &
+dd/yyyy &
+Successor Appointed Date Successor Appointed
+mmidclyyyy a
+Write-off Write-off Amount
+```
+
+</details>
 
 #### Reconsideration
 
@@ -132,11 +319,68 @@ This section shows the dates when the reconsideration was established and when i
 
 This section shows dates and other information associated with the Inspector General (IG) or Regional Counsel (RC) referral.
 
-![Screenshot — page 102, figure 1 of 2](./images/page-102-img-1.png)
+![UI screenshot: VOLE BO Reconsideration](./images/page-102-img-1.png)
 *Screenshot — page 102, figure 1 of 2 (1299×617 px)*
 
-![Screenshot — page 102, figure 2 of 2](./images/page-102-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+VOLE BO Reconsideration
+MISUSE RECORDS
+; Reconsideration Established Reconsideration Complete
+General Overview
+aa Date Reconsideration Signed by Approval Authority
+Investigation mmiddiyyyy a
+Determination Reconsideration Facts
+No Misuse Found
+Misuse Found Preparer Station Date Time of Preparation (GMT) Preparer E-Signature
+Prepare
+Reconsideration
+Reviewer Station Date Time of Review (GMT) Reviewer E-Signature
+IGIRC Referral
+vaco Approver Station Date Time of Approval (GMT) Approver E-Signature
+Report of Field Exam
+EFolder Evidence
+Add/Remove EFolder Evidence
+VAForm Evidence
++ Add Evidence
+Preview Misuse Reconsideration Memo
+| Preview Memo
+```
+
+</details>
+
+![UI screenshot: IG/RC Referral](./images/page-102-img-2.png)
 *Screenshot — page 102, figure 2 of 2 (1299×563 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+IG/RC Referral
+MISUSE RECORDS
+General Overview
+IGIRC Early Consultation
+Allegation . a
+Investigation IGIRC Early Consultation Notes
+Determination
+No Misuse Found Referral Date
+Misuse Found mmiddiyyy a
+Referral To
+Reconsideration
+Please select a value
+IGIRC Referral
+Referral Complete
+vaco
+midatyyy ts
+Report of Field Exam IGIRC Referral Status
+Please select a value v
+IG Case Number
+Referral Notes
+```
+
+</details>
 
 #### VACO
 
@@ -152,11 +396,50 @@ From this section, you can generate and manage VA-Form 21-3537b - Report of Fiel
 
 To generate the Report of Field Exam, select Add VA-Form 21-3537b. The Purpose field is pre-populated with the contents of the Allegation Statement from the Allegation section. Enter any additional text you wish to appear in the report in the Purpose field, and select Save VA-Form 21-3537b.
 
-![Screenshot — page 103, figure 1 of 2](./images/page-103-img-1.png)
+![UI screenshot: VACO](./images/page-103-img-1.png)
 *Screenshot — page 103, figure 1 of 2 (1299×456 px)*
 
-![Screenshot — page 103, figure 2 of 2](./images/page-103-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+VACO
+MISUSE RECORDS
+General Overview
+Negligence Determ Required Date of Negligence Determination Negligence Determined
+Allegation ¥
+mmiddiyyy a
+Eo AAM Requested AAM Due Zip Code
+Determination samiceyvy 2 snmiseyyy a
+No Misuse Found Negligence Determination Facts
+Misuse Found
+Reconsideration =
+Decision
+IGIRC Referral
+vaco
+Negligence Reason
+Report of Field Exam
+```
+
+</details>
+
+![UI screenshot: ‘No Misuse Found Report of Field Exam](./images/page-103-img-2.png)
 *Screenshot — page 103, figure 2 of 2 (1299×238 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+‘No Misuse Found Report of Field Exam
+Misuse Found
+Reconsideration +
+IGIRC Referral Activity Report Made By Status ‘Actions
+vAco
+‘ANo Report of Field Exams found.
+Report of Field Exam
+```
+
+</details>
 
 You can generate and manage the Report of Field Exam using the same processes as you would from the EP Overview page of some EP590s and EP930s. See Generate VA Form 21-3537b for more information.
 
@@ -194,8 +477,23 @@ This section describes the process for preparing the Misuse Determination Memo f
 
 If data is required for an action, such as adding a signature, a message opens to indicate the data that must be entered before you can proceed.
 
-![Screenshot — page 104](./images/page-104-img-1.png)
+![UI screenshot: Add VA-Form 21-3537b](./images/page-104-img-1.png)
 *Screenshot — page 104 (1299×333 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Add VA-Form 21-3537b
+Purpose
+ALLEGATION STATEMENT:
+Allegation statement testing text
+PURPOSE:
+Testing purpose
+oo Ty
+```
+
+</details>
 
 To add evidence, select Add/Remove EFolder Evidence or + Add VA Form Evidence. Then from the dialog, select the evidence to be included in the memo. The added evidence will be listed under EFolder Evidence or VA Form Evidence. Select Save.
 
@@ -207,11 +505,51 @@ Select Preview Memo to view a preview of the memo.
 
 After signatures have been added, if you attempt to save the misuse record after editing any data required for the memo, a dialog opens stating that saving will clear the signatures.
 
-![Screenshot — page 105, figure 1 of 2](./images/page-105-img-1.png)
+![UI screenshot: Report of Field Exam Add/Remove EF older Evidence](./images/page-105-img-1.png)
 *Screenshot — page 105, figure 1 of 2 (1299×359 px)*
 
-![Screenshot — page 105, figure 2 of 2](./images/page-105-img-2.jpeg)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Report of Field Exam Add/Remove EF older Evidence
+(w] 1. 12/08/2022 VA Form 27-0820, Report of General Information
++ Add VA Form Evidence ]
+[ Preview Memo
+```
+
+</details>
+
+![UI screenshot: MISUSE RECORDS Daeertnaion Fee](./images/page-105-img-2.jpeg)
 *Screenshot — page 105, figure 2 of 2 (1299×620 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+MISUSE RECORDS Daeertnaion Fee
+General Overview Seng Ceserrminatinn ac
+Allegation Preparer Station Date Time of Preparation (GMT) Preparer E-Signature
+Reviewer Station Date Time of Review (GMT) Reviewer E-Signature
+Determination
+No Misuse Found Approver Station Date Time of Approval (GMT) Approver E-Signature
+Misuse Found
+Receciereun EF older Evidence
+Add/Remove EFolder Evidence
+IGIRC Referral
+anne VA Form Evidence
+vaco
+Remove Received Date(s) VAFomn Evidence
+Report of Field Exam
+4. 1112372022 Misuse Allegation
+(a °
+| + Aaa va Form Evidence |
+Preview Misuse Determination Memo
+| Preview Memo |
+ce
+```
+
+</details>
 
 #### Reviewing and Approving the Memo
 
@@ -241,8 +579,20 @@ To submit the memo for Fiduciary Hub Manager concurrence, select Misuse
 
 Determination Pending Concur HUBMGR.
 
-![Screenshot — page 106](./images/page-106-img-1.png)
+![UI screenshot: Beneficiary Name FLOWERS, EMILY](./images/page-106-img-1.png)
 *Screenshot — page 106 (1299×287 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Beneficiary Name FLOWERS, EMILY
+Misuse Record 2822810 | Delete Misuse Record
+Establish 290NDFID
+Misuse Determination Memo Ready to Review
+```
+
+</details>
 
 From this suspense reason, users with permissions who signed the memo as an approver can select Approve Misuse Determination Memo. The suspense reason updates to Determination Signed.
 
@@ -254,8 +604,20 @@ From the Correspondence section of the EP Overview page, select Misuse Determina
 
 A preview of the memo is shown. Select Generate Letter. A message is shown indicating that the memo has been successfully generated and uploaded to the eFolder.
 
-![Screenshot — page 107](./images/page-107-img-1.png)
+![UI screenshot: ¥ Correspondence](./images/page-107-img-1.png)
 *Screenshot — page 107 (1299×199 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+¥ Correspondence
+* Choose a Letter
+Misuse Determination Memo ¥
+Generate Letter
+```
+
+</details>
 
 ---
 

@@ -6,11 +6,68 @@ For a Properly Titled Account admin task that is assigned to you, a message is s
 
 To reassign the task, users with permissions can select Assign New User and choose a different Fiduciary Hub, team, and user.
 
-![Screenshot — page 54, figure 1 of 2](./images/page-054-img-1.png)
+![UI screenshot: HOME 4 | Home > Admin Task > 48135 Fiduciary U20.109, Service 20.108](./images/page-054-img-1.png)
 *Screenshot — page 54, figure 1 of 2 (1299×690 px)*
 
-![Screenshot — page 54, figure 2 of 2](./images/page-054-img-2.jpeg)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+HOME 4 | Home > Admin Task > 48135 Fiduciary U20.109, Service 20.108
+Accounting Audit Tools
+Field Exam Reports Beneficiary Name VA File Number
+LITTMANN, ENRIQUE 900102181
+Benefits Threshold
+‘ADMIN TASK Title Priority
+My Assigned Tesks Queve Bond-LIE Please select a value v
+My Team Tasks Queue Type Days Pending
+Fiducry Hub Tasks Queue INCOMING_FID_RESPONSE 896
+My Work Queue Exports FSR Action
+einen Cones Please select a value ¥
+SEARCH Station of Jurisdiction Created By
+Beneficiaries 317 TS317_FMA
+Fiduciaries Assigned Team Assigned To [ar Assign new User]
+Countries No team assigned TS317_FMA a
+Zip Codes Date Received Due Date
+dd/yyy 8 mmddyy &
+Description
+ype description here
+[© vewavat isc | [Sem]
+```
+
+</details>
+
+![UI screenshot: HOME 4&4) Home > Admin Task > 12539¢ Peay Pap](./images/page-054-img-2.jpeg)
 *Screenshot — page 54, figure 2 of 2 (1299×480 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+HOME 4&4) Home > Admin Task > 12539¢ Peay Pap
+Accounting Audit Tools -
+Feld Exam Repos | 4. rerevcay rect Depost eter nado est
+enefitsThres!
+maeianan Beneficiary Name VA File Number
+AONE TASK SIMPSON, TAYLOR 008747648
+My Assigned Tasks Queue
+Title Priority
+My Team Tasks Queue Praga Tied Acco Please select a
+Fiduciary Hub Tasks Queue
+Type Days Pending
+a on TELEPHONE_INTERVIEW_WITH_0820 4
+Assignment Configuration
+FSR Action
+SEARCH
+Please select a valve 7
+Beneficiaries
+Station of Jurisdiction Created By
+Fiducianes
+319 GASTLEY_FAROLES
+Countries ~
+```
+
+</details>
 
 To update the task and continue editing, select Save, or select Save and Return to update the task and return to the previous page.
 
@@ -30,8 +87,24 @@ For Review Status, Onsite Review Due is selected at first, and the corresponding
 
 Progress. For any review status, you can update the status to Canceled or Complete. If you change the review status selection, the status is updated accordingly as well.
 
-![Screenshot — page 55](./images/page-055-img-1.png)
+![UI screenshot: ‘Action Taken](./images/page-055-img-1.png)
 *Screenshot — page 55 (1299×446 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+‘Action Taken
+Type action taken here
+* Review Status * Status
+Onsite Review Due ¥ Complete ¥
+ONSITE_REVIEW_UNSCHEDULED
+* Review Date * Review Start Time
+03/23/2021 & 1:30 PM
+Generate Letter
+```
+
+</details>
 
 To generate an onsite review letter, enter a review date and start time, then select
 
@@ -77,11 +150,38 @@ establishment failure for 290FURFID, 290AFFID, or 290ACFID.
 
 choose a different Fiduciary Hub, team, and user. Manually created onsite review unscheduled or periodic tasks can only be reassigned by the user who created the task.
 
-![Screenshot — page 57, figure 1 of 2](./images/page-057-img-1.png)
+![UI screenshot: Beneficiary Name VA File Number *](./images/page-057-img-1.png)
 *Screenshot — page 57, figure 1 of 2 (1299×697 px)*
 
-![Screenshot — page 57, figure 2 of 2](./images/page-057-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Beneficiary Name VA File Number *
+LITTMANN, ENRIQUE 900102181
+Age of Majority v Please select a value .
+PROCESS _MAIL 0
+Please select a value v
+37
+Loading. ¥ TS317_FMA
+yyy é mmiddiyyyy &
+```
+
+</details>
+
+![UI screenshot: ‘Action Taken](./images/page-057-img-2.png)
 *Screenshot — page 57, figure 2 of 2 (1299×232 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+‘Action Taken
+Status
+Open v
+```
+
+</details>
 
 ---
 

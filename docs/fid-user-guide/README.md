@@ -150,6 +150,19 @@ Full list of acronyms used throughout the user guide.
 
 ---
 
+## Copilot / AI Readability
+
+**All 212 UI screenshots are fully readable by GitHub Copilot and other AI assistants.**
+
+Each screenshot in the section files is accompanied by its OCR-extracted text content inside a collapsible `<details>` block. This means every field label, button name, column header, navigation breadcrumb, and data value visible in the UI is available as searchable plain text — Copilot can answer questions like:
+
+- *"What columns are shown in the My Assigned Tasks Queue?"*
+- *"What fields are on the Beneficiary Profile page?"*
+- *"What are the filter options in the Narrow Results pane?"*
+- *"What buttons are available on the Field Exam Report page?"*
+
+The OCR text was extracted using Tesseract 5.x (`--psm 6` mode) directly from the screenshot images. Note that OCR may occasionally misread characters due to UI font rendering, but the key terms (field names, section titles, button labels) are reliably captured.
+
 ## Images Directory
 
 All 212 UI screenshots extracted from the PDF are stored in the [`images/`](./images/) subdirectory. Images are named by their source page and figure number, e.g., `page-005-img-1.png`.

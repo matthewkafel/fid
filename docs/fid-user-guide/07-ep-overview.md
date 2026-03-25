@@ -12,8 +12,31 @@ When a First Notice of Death (FNOD) is processed for a beneficiary, all EPs are 
 
 This section shows the EP and claim label, along with basic claim information that may include the claim ID, claim modifier, claim date, claim status, assigned to user, team assigned, beneficiary name, fiduciary name, suspense reason, and suspense date. For most EPs that are not closed or cancelled, you can select Update Suspense Date to manually change the suspense date. Claim Modifier and Claim Date include links to the Claim Details page. For all EP types, you can close or cancel a claim that is assigned to
 
-![Screenshot — page 62](./images/page-062-img-1.png)
+![UI screenshot: EP OVERVIEW « Home > Development Activity Management](./images/page-062-img-1.png)
 *Screenshot — page 62 (1299×516 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+EP OVERVIEW « Home > Development Activity Management
+¥ 590DPI - Due Process for Incompetency Info
+eau eS y | Suspend Benefits | | Cancel EP 590 | | Close EP 520 |
+Field Exam Reports:
+Claim 1D Beneficiary Name
+BENEFICIARY
+600094341 LILLY, MATTHEW
+LILLY, MATTHEW
+LETTERS UI @ ‘Claim Modifier Fiduciary Name
+51 & ‘SMITH, DEBRA
+Claim Date ‘Suspense Reason
+5/20/2017 & VBA Contractor Request for Clarification
+Claim Status ‘Suspense Date
+Open 5/20/2017
+Assigned to Update Suspense Date |
+```
+
+</details>
 
 you. See Closing or Canceling EPs for more information. Most buttons and actions are disabled or unavailable after a claim is closed or cancelled.
 
@@ -29,8 +52,34 @@ When all activities are completed for a claim with the In Development suspense r
 
 To indicate that a claim is ready for validation, select Ready for Validation. The suspense reason updates to Field Exam Validation.
 
-![Screenshot — page 63](./images/page-063-img-1.png)
+![UI screenshot: EP OVERVIEW «Home > Development Activity Management](./images/page-063-img-1.png)
 *Screenshot — page 63 (1299×617 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+EP OVERVIEW «Home > Development Activity Management
+Info A
+— ¥ S5901AFE - Initial Appointment Field Exam Info ‘Suspend Benefits | Cancel EP 590 | Close EP 590
+lopment
+Field Exam Reports c
+Claim ID Beneficiary Name Ready For Validation |
+BENEFICIARY aevXwssssseegJ
+600163123 THOMAS, ALMA
+THOMAS, ALMA %
+LETTERS UI Claim Modifier Fiduciary Name
+593 & SMITH, DEBRA
+Claim Date Suspense Reason
+10/23/2020 & Typing Field Exam Report
+Claim Status ‘Suspense Date
+Open 11/7/2020
+Assigned to | Update Suspense Date |
+Team Assigned
+[ Transfer to Secondary Jurisdiction |
+```
+
+</details>
 
 For a claim that is pending field exam validation, you can select Promulgate EP -
 
@@ -52,8 +101,27 @@ To suspend benefits to the beneficiary, select Suspend Benefits. Then select a r
 
 For dual jurisdiction claims where the fiduciary and beneficiary physical addresses are associated with different stations, you can select Transfer to Secondary Jurisdiction to indicate the claim is ready to be transferred. If there is no existing field exam report, you
 
-![Screenshot — page 64](./images/page-064-img-1.png)
+![UI screenshot: . x](./images/page-064-img-1.png)
 *Screenshot — page 64 (1299×518 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+. x
+Field Exam Incomplete
+Are you sure that you wish to establish mark Feld Exam as incomplete? It wll be
+created with the folowing values.
+Suspense Reason : Retumed by Other User
+Ciaim Lifecycle Status : Open
+* Suspense Date
+09/28/2024 a)
+Incomplete Reason
+Type reason here
+(oo
+```
+
+</details>
 
 can select Don't Create Field Exam if a report is not needed, or Create New Field Exam if a report is needed, prior to transferring the case.
 
@@ -73,11 +141,37 @@ EP400 FID-Correspondence claims are primarily used for generating correspondence
 
 An EP400 FID-Correspondence is automatically established when a date of death is entered for the beneficiary and there are no values listed in the Accounting Due Reason or Accounting Period Start Date fields in the Diary Information section of the beneficiary profile. There must also be an EP290 FID-Accounting Federal associated to the beneficiary.
 
-![Screenshot — page 65, figure 1 of 2](./images/page-065-img-1.png)
+![UI screenshot: Missing Field Exam Report x](./images/page-065-img-1.png)
 *Screenshot — page 65, figure 1 of 2 (1299×263 px)*
 
-![Screenshot — page 65, figure 2 of 2](./images/page-065-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Missing Field Exam Report x
+AField Exam Report has not been created for this EP. Does one
+need to be created for this claim?
+Don't
+Do Create New
+coe Field Exam
+Field Exam
+```
+
+</details>
+
+![UI screenshot: The beneficiary's location is unknown, are you x](./images/page-065-img-2.png)
 *Screenshot — page 65, figure 2 of 2 (1299×177 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+The beneficiary's location is unknown, are you x
+sure you want to transfer this case?
+[ow]
+```
+
+</details>
 
 #### EP290 FID-Misuse Info
 
@@ -89,11 +183,50 @@ For EP290 FID-Misuse claims, the initial suspense reason is Allegation Received.
 
 14 days except for Misuse Found, which is 30 days. You can edit the suspense date if needed. If the claim is closed or cancelled, you cannot add any actions.
 
-![Screenshot — page 66, figure 1 of 2](./images/page-066-img-1.png)
+![UI screenshot: Info ¥ 400CFID - FID-Correspondence Info Cancel EP 400 } [ Close EP 400 }](./images/page-066-img-1.png)
 *Screenshot — page 66, figure 1 of 2 (1299×553 px)*
 
-![Screenshot — page 66, figure 2 of 2](./images/page-066-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Info ¥ 400CFID - FID-Correspondence Info Cancel EP 400 } [ Close EP 400 }
+Correspondence
+BENEFICIARY Claim ID 600190793
+STEELE, FRANK &
+Claim Modifier 407 &
+LETTERS Ul
+Claim Date 8/26/2021 &
+Suspense Reason Pending Initial Development - Std 510:
+Suspense Date 2110/2022 Update
+Suspense Date
+Claim Status Open
+Assigned to
+Team Assigned
+Beneficiary Name STEELE, FRANK
+```
+
+</details>
+
+![UI screenshot: Ino © 200MFID -FID-Misuse info. [ Cancel EP 200 | [ Close EP 200 | [ Actions ]](./images/page-066-img-2.png)
 *Screenshot — page 66, figure 2 of 2 (1299×587 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Ino © 200MFID -FID-Misuse info. [ Cancel EP 200 | [ Close EP 200 | [ Actions ]
+BENEFICIARY, OO oO
+MURACCRM EGY (29 Claim ID 600322296
+LETTERS UI &
+Claim Modifier 204 &
+Claim Date 2/2/2024 &
+suspence Date avze2024 [ Update Suspense Date |
+Beneicary Name LLY, MATTHEW
+Misuse Record ‘r9802 Delete Misuse Record
+```
+
+</details>
 
 Adding an action may change the suspense reason, suspense date, and claim status. If you add the No Investigation is Warranted, Misuse Not Found, Misuse Not Upheld, or Debt Collection Admin Task has been created action, a dialog is shown indicating the claim will close. Select Confirm. The claim status will update to Closed.
 
@@ -107,11 +240,38 @@ From the EP Overview page for an EP290 FID-Misuse claim, you can select Establis
 
 establish an EP290 FID-Negligence Determination claim from the VACO section of the Misuse Record page by selecting Yes for Negligence Determ Required. In either case, if the misuse record does not meet all criteria required to establish this type of claim, a message is shown to indicate the reason. To make corrections before proceeding, select the link to the associated Misuse Record page from the EP Overview page for the EP290 FID-Misuse claim or the EP290 FID-Negligence Determination claim. See Misuse Records for more information.
 
-![Screenshot — page 67, figure 1 of 2](./images/page-067-img-1.png)
+![UI screenshot: Actions *](./images/page-067-img-1.png)
 *Screenshot — page 67, figure 1 of 2 (1299×298 px)*
 
-![Screenshot — page 67, figure 2 of 2](./images/page-067-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Actions *
+Actions
+Misuse Found 7
+Suspense Date
+107242024 a|
+oo
+```
+
+</details>
+
+![UI screenshot: ~ 200NDFID -FID-Negligence Determination nfo Cancel €P 290 ] [‘Gose EP 200 |](./images/page-067-img-2.png)
 *Screenshot — page 67, figure 2 of 2 (1299×597 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+~ 200NDFID -FID-Negligence Determination nfo Cancel €P 290 ] [‘Gose EP 200 |
+STEELE, FRANK &
+LETTERS UI & Claim Modifier 202 &
+Claim Date 8/8/2024
+Misuse Record 1507983 Delete Misuse Record
+```
+
+</details>
 
 For EP290 FID-Negligence Determination claims, the initial suspense reason is Awaiting Initial Review. For users with permissions, the available buttons to move the claim through the workflow will vary based on the suspense reason. When you select one of these buttons, a dialog opens with information about the resulting suspense reason, user assignment, and suspense date.
 
@@ -129,8 +289,22 @@ On the day after the Accounting Period End Date, an EP290 FID-Accounting Court o
 
 An EP290 FID-Accounting Federal is also automatically established when a date of death is entered for the beneficiary and there are no values listed in the Next of Kin and Person Listed on Will fields in the Beneficiary Information section of the beneficiary profile. There must also be values listed in at least one of the following fields in the Diary Information section of the beneficiary profile: Accounting Due Reason, Accounting Period Start Date, or Accounting Period End Date.
 
-![Screenshot — page 68](./images/page-068-img-1.png)
+![UI screenshot: Update Suspense Reason](./images/page-068-img-1.png)
 *Screenshot — page 68 (1299×266 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Update Suspense Reason
+‘Transition To: Awaiting Review of AAM Response
+This EP will be assigned to station 101.
+Update Suspense Date
+0724/2024 |
+[em
+```
+
+</details>
 
 To manually establish this type of claim, select Establish EP from the Beneficiary Information section of the beneficiary profile. See Establishing EPs for more information. Manually established EP290 accounting claims will be assigned to the user establishing the claim.
 
@@ -146,11 +320,47 @@ To begin from a completely new accounting audit tool, select the Create Accounti
 
 starting balance amount, a justification is required.
 
-![Screenshot — page 69, figure 1 of 2](./images/page-069-img-1.png)
+![UI screenshot: io —](./images/page-069-img-1.png)
 *Screenshot — page 69, figure 1 of 2 (1299×601 px)*
 
-![Screenshot — page 69, figure 2 of 2](./images/page-069-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+io —
+¥ 290AFFID - FID-Accounting Federal Info [cancel EP 280 | [ose EP 250
+Ered ead)
+BENEFICIARY
+cian 00819615
+STEELE, FRANK &
+Lerrersul @ Claim Modifier 204 &
+Claim Date 9/23/2024
+Supers Rasson Accounting Due
+suspense Dat toreaz00¢ [ Uosate Suspense Date
+clam status open
+Assigned io
+team Alone
+Benefciay Name STEELE, FRANK
+Cress Acc Ta |
+Documents Received |
+```
+
+</details>
+
+![UI screenshot: Copy Accounting Audit Tool x](./images/page-069-img-2.png)
 *Screenshot — page 69, figure 2 of 2 (1299×238 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Copy Accounting Audit Tool x
+© Create Accounting Auet_ ® Copy Accounting Auelt
+Debra SMITH 2024 - 2024 - 09/24/2024 .
+[[saome ]
+```
+
+</details>
 
 For either option, select Submit. An Accounting Audit Tool link is added to the EP overview and the suspense reason is updated to Accounting Due. See Accounting Audit Tools for more information.
 
@@ -160,14 +370,62 @@ If you send an Accounting Past Due or Accounting Call Past Due letter, the suspe
 
 If the suspense reason is Accounting Due, In Development, Accounting Disapproved, or Pending Concur and you select Documents Received, the suspense reason will be updated to Accounting Received.
 
-![Screenshot — page 70, figure 1 of 3](./images/page-070-img-1.png)
+![UI screenshot: Create New Accounting Audit Tool x](./images/page-070-img-1.png)
 *Screenshot — page 70, figure 1 of 3 (1299×567 px)*
 
-![Screenshot — page 70, figure 2 of 3](./images/page-070-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Create New Accounting Audit Tool x
+® Create Accounting Audit © Copy Accounting Audit
+Beneficiary
+STEELE, FRANK
+Choose a Subject Fiduciary
+DEBRA SMITH, Date Appointed: 01/09/2024 y
+Fiduciary
+DEBRA SMITH, Date Appointed: 01/09/2024
+Accounting Audit Too! Start Date
+o6ro4iz0z4 |
+‘Accounting Audit Too! End Date
+0772512024 |
+Starting Balance
+$500.00
+[sam
+```
+
+</details>
+
+![UI screenshot: Team Assigned ‘Team Hub Manager](./images/page-070-img-2.png)
 *Screenshot — page 70, figure 2 of 3 (1299×188 px)*
 
-![Screenshot — page 70, figure 3 of 3](./images/page-070-img-3.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Team Assigned ‘Team Hub Manager
+Beneficiary Name LILLY, MATTHEW
+‘Accounting Audit Too! 597279  ——
+```
+
+</details>
+
+![UI screenshot: Update Suspense Reason](./images/page-070-img-3.png)
 *Screenshot — page 70, figure 3 of 3 (1299×272 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Update Suspense Reason
+Transition To: Accounting Received
+The assignment for this EP will not change.
+Update Suspense Date
+10/08/2024 |
+[See]
+```
+
+</details>
 
 If the suspense reason is Accounting Received and you select Accounting Approved, you can select Confirm from the dialog to close any open development activities and continue. The suspense reason is updated to Accounting Approved and the claim status is updated to Closed.
 
@@ -213,8 +471,32 @@ If the suspense reason is Pending Review, Awaiting Bank Statements, or In Develo
 
 Then from the dialog, you can select Reject or Accept to enter the final status of the review.
 
-![Screenshot — page 72](./images/page-072-img-1.png)
+![UI screenshot: vi](./images/page-072-img-1.png)
 *Screenshot — page 72 (1299×599 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+vi
+© 200F URFID -FD-Fund Usage Reviow info ance EP 200 | [ Gose 290
+Development
+SENERICRY
+champ 600179088
+LILLY, MATTHEW
+LETTERS Ul Z Claim Modifier 22 &
+Claim Date 3/11/2021 &
+Sapo Renn Awaling Bank Statements
+suspen Date ro12004 [Update Suspense Date
+clam status open
+Aasignd to
+Team Asined
+Banat Name LILLY, MATTHEW
+Satorais Roce |
+Review Complete
+```
+
+</details>
 
 If you select Reject, the Update Suspense Reason dialog indicates the new suspense reason and suspense date. You can edit the suspense date or accept the default suspense, then select Confirm.
 
@@ -232,11 +514,31 @@ If you are canceling an EP with an open Accounting Audit Tool or Field Exam Repo
 
 As an example, these steps show how to cancel an EP.
 
-![Screenshot — page 73, figure 1 of 2](./images/page-073-img-1.png)
+![UI screenshot: Complete Review](./images/page-073-img-1.png)
 *Screenshot — page 73, figure 1 of 2 (1299×175 px)*
 
-![Screenshot — page 73, figure 2 of 2](./images/page-073-img-3.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Complete Review
+Would you like to Accept or Reject the Fund Usage Review?
+[==]
+```
+
+</details>
+
+![UI screenshot: Confirm: Close EP290](./images/page-073-img-3.png)
 *Screenshot — page 73, figure 2 of 2 (1299×216 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Confirm: Close EP290
+```
+
+</details>
 
 1. From the Info section, select Cancel EP.
 
@@ -258,11 +560,41 @@ When a development activity is added, the suspense reason is set to In Developme
 
 If a claim is closed or canceled, you cannot add, update, edit, or delete a development activity.
 
-![Screenshot — page 74, figure 1 of 2](./images/page-074-img-1.png)
+![UI screenshot: EPOVERVIEW «Home > Development Act Management](./images/page-074-img-1.png)
 *Screenshot — page 74, figure 1 of 2 (1299×199 px)*
 
-![Screenshot — page 74, figure 2 of 2](./images/page-074-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+EPOVERVIEW «Home > Development Act Management
+——
+290FURFID - FID-Fund Usage Review Info — { Cancel EP 290 { Close EP 290 |
+Development
+BENEFICIARY
+Claim 1D 7309:
+LILLY, MATTHEW. & Go0178991
+LETTERS Ul & Claim Modifier 21
+```
+
+</details>
+
+![UI screenshot: Cancel EP 290 *](./images/page-074-img-2.png)
 *Screenshot — page 74, figure 2 of 2 (1299×264 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Cancel EP 290 *
+cancel Reason
+Closed - Other .
+cancel Note
+Test reason
+[ Sceance |
+```
+
+</details>
 
 To add an activity, select Add Development Activity. Then from the dialog, select an activity type. Some activity types require additional information or selections.
 
@@ -280,11 +612,41 @@ For a Criminal Background Investigation (CBI), if there is no open CBI admin tas
 
 If there is an open CBI admin task, the Link column will include a link to the admin task and the delete icon will not be enabled. You can select Delete Assignment to LIE from
 
-![Screenshot — page 75, figure 1 of 2](./images/page-075-img-1.png)
+![UI screenshot: Development . es See](./images/page-075-img-1.png)
 *Screenshot — page 75, figure 1 of 2 (1299×357 px)*
 
-![Screenshot — page 75, figure 2 of 2](./images/page-075-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Development . es See
+Generate VA Form 21-3537
+RES Filter Results
+ner © Compete All Development Activities || ++ Add Development Activity |
+mows’
+LETTERS UI &
+600187829 Interviow-Beneficiary Open B 9242028 101082028
+@ Exit |
+10. & tems per page Showing 1-1 0f1
+```
+
+</details>
+
+![UI screenshot: Add Development Activity *](./images/page-075-img-2.png)
 *Screenshot — page 75, figure 2 of 2 (1299×303 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Add Development Activity *
+* Activity Type
+Criminal Background investigation L
+«Can you request Criminal Background investigation?
+[5 cone]
+```
+
+</details>
 
 the Update Development Activity dialog, and then you will be able to delete the CBI activity, mark it complete, or assign it to an LIE.
 
@@ -298,11 +660,37 @@ If you select Yes from the Complete All Development Activities Dialog, the close
 
 Users with permissions can select the delete icon to delete an Open or Attempted activity, unless it has a received date. You can edit an activity to remove the received date so that the activity can be deleted. You cannot delete a CBI activity or mark it completed if there is an open CBI admin task.
 
-![Screenshot — page 76, figure 1 of 2](./images/page-076-img-1.png)
+![UI screenshot: Edit Development Activity *](./images/page-076-img-1.png)
 *Screenshot — page 76, figure 1 of 2 (1299×341 px)*
 
-![Screenshot — page 76, figure 2 of 2](./images/page-076-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Edit Development Activity *
+Start Date
+09/24/2024 @
+«Due Date
+10/08/2024 &
+Received Date
+mmiddlyyyy &
+```
+
+</details>
+
+![UI screenshot: Complete All Development Activities](./images/page-076-img-2.png)
 *Screenshot — page 76, figure 2 of 2 (1299×272 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Complete All Development Activities
+on required activities. Do you wish to proceed?
+co
+```
+
+</details>
 
 #### Whereabouts Unknown
 
@@ -342,8 +730,21 @@ The user who created the note can edit it by selecting Edit.
 
 To add a new note, select Add Note. Then from the Add Note dialog, enter the note text and select OK.
 
-![Screenshot — page 77](./images/page-077-img-1.png)
+![UI screenshot: v Notes](./images/page-077-img-1.png)
 *Screenshot — page 77 (1299×398 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+v Notes
+Filter Results
+[ + Add Note
+Note text RMENDO_FMA7 12/08/2022 01:53:45 PM GMT-5 [rect }
+10 items per page Showing 1-1 of 1 + |
+```
+
+</details>
 
 To add the claim notes to the beneficiary profile, select Save Notes. See Notes for more information.
 
@@ -359,14 +760,57 @@ If a locked report is available for the beneficiary, you can select Begin from a
 
 select OK to create the report.
 
-![Screenshot — page 78, figure 1 of 3](./images/page-078-img-1.png)
+![UI screenshot: Add Note *](./images/page-078-img-1.png)
 *Screenshot — page 78, figure 1 of 3 (1299×290 px)*
 
-![Screenshot — page 78, figure 2 of 3](./images/page-078-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Add Note *
+Note
+```
+
+</details>
+
+![UI screenshot: Field Exam Reports ¥ Field Exam Reports](./images/page-078-img-2.png)
 *Screenshot — page 78, figure 2 of 3 (1299×451 px)*
 
-![Screenshot — page 78, figure 3 of 3](./images/page-078-img-3.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Field Exam Reports ¥ Field Exam Reports
+BENEFICIARY
+Filter Results
+LILLY, MATTHEW aad Gud cea Bonnt aaa, |
+| + Add Field Exam Report Activity |
+LETTERS Ul &
+600162866 Field Exam Report Complete
+E> Export |
+600162866 Competency Memo Open |e coto Field Exam | |
+E> Export
+10 items per page Showing 1-2 of 2 [+ |
+nnn OOO RRR!
+```
+
+</details>
+
+![UI screenshot: Add Field Exam Report Activity 7](./images/page-078-img-3.png)
 *Screenshot — page 78, figure 3 of 3 (1299×302 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Add Field Exam Report Activity 7
+® Begin from an existing report
+SCHEDULED_FOLLOW_UP - Created 2022- ~
+© Create brand new report
+| © Cancel |
+```
+
+</details>
 
 If you create a report for a beneficiary without a Social Security number (SSN), unavailable will be shown for the beneficiary's SSN on the Field Exam Reports page. You can edit the beneficiary's SSN from the associated Veteran Profile.
 
@@ -386,11 +830,39 @@ To generate the VA Form 21-3537b, select Add VA-Form 21-3537b. From the dialog, 
 
 #### Form 21-3537b.
 
-![Screenshot — page 79, figure 1 of 2](./images/page-079-img-1.png)
+![UI screenshot: > Environmental and Social Conditions](./images/page-079-img-1.png)
 *Screenshot — page 79, figure 1 of 2 (1299×245 px)*
 
-![Screenshot — page 79, figure 2 of 2](./images/page-079-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+> Environmental and Social Conditions
+¥ Income
+| ‘© Cancel Export Mode
+```
+
+</details>
+
+![UI screenshot: ra > Notes](./images/page-079-img-2.png)
 *Screenshot — page 79, figure 2 of 2 (1299×337 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+ra > Notes
+Development
+onerate VAFom 2136870 | | ¥ Generate VA Form 21-3537b
+Fok Exam Reports
++ Add VA-Form 21-3537b
+BENEFICIARY
+ann
+LETTERS UI Z zz nee
+VaFom 21-3637 ROUTH FMA OPEN [ereien]) (area) (Woman |
+```
+
+</details>
 
 Once you have generated the report, the form is listed in the table. The Add VA-Form 21- 3537b button becomes inactive because only one form can be in an open status at a time.
 
@@ -410,8 +882,17 @@ From the Correspondence section, you can generate the following correspondence f
 
 Choose a letter from the list in the Correspondence section. For some letters, you will need to enter additional information.
 
-![Screenshot — page 80](./images/page-080-img-1.png)
+![UI screenshot: Add VA-Form 21-3537b *](./images/page-080-img-1.png)
 *Screenshot — page 80 (1299×386 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Add VA-Form 21-3537b *
+```
+
+</details>
 
 Select Generate Letter. Then from the dialog, preview the letter and select Generate
 
@@ -421,11 +902,46 @@ A success message is shown, indicating that the letter was generated. The letter
 
 Letters addressed to a fiduciary are automatically added to a package in Package Manager, and the package is finalized. A distribution is also created for the package, and its status is set to In Progress.
 
-![Screenshot — page 81, figure 1 of 2](./images/page-081-img-1.png)
+![UI screenshot: LETTERS Ul % ¥ Correspondence](./images/page-081-img-1.png)
 *Screenshot — page 81, figure 1 of 2 (1299×453 px)*
 
-![Screenshot — page 81, figure 2 of 2](./images/page-081-img-2.jpeg)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+LETTERS Ul % ¥ Correspondence
+Choose a Letter
+Debt Memo to Support Services Division (SSD) -|
+‘* Debt Amount
+$ 100
+Choose a Subject Fiduciary
+SMITH, DEBRA
+Only VAFUM
+$ 50
+Bond Amount
+Enter a positive Bond Amount iit is part of the misuse funds to be recouped by the VA, otherwise leave this field
+$ 150
+Generate Letter
+```
+
+</details>
+
+![UI screenshot: Send Letter *](./images/page-081-img-2.jpeg)
 *Screenshot — page 81, figure 2 of 2 (1299×557 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Send Letter *
+W veeamsiars Memorandum
+Sd ay AA TLE
+ower
+A a ha *
+{ Cancel I Generate Letter
+```
+
+</details>
 
 ---
 

@@ -12,14 +12,53 @@ From the Admin Task, ZIP Code Information, or Country Information page, select V
 
 To view the audit history of an admin task assigned to another user, first go to Fiduciary Hub Tasks Queue and select the link to the admin task. Then from the Admin Task page, select View Audit History.
 
-![Screenshot — page 119, figure 1 of 3](./images/page-119-img-1.png)
+![UI screenshot: From Date Audit History](./images/page-119-img-1.png)
 *Screenshot — page 119, figure 1 of 3 (1299×577 px)*
 
-![Screenshot — page 119, figure 2 of 3](./images/page-119-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+From Date Audit History
+05/01/2021 s
+ay ab (E) oer seams Do
+Username in Fiduciary Hub . oes oesoewens
+ne Creat Zip Code 2001
+~ et Physical Same As Maing Address, fase
+© Gear Fiters ]
+```
+
+</details>
+
+![UI screenshot: ADMIN « Home > Beneficiary Profile > FLOWERS, EMILY (Active) Fiduciary UI20.103,](./images/page-119-img-2.png)
 *Screenshot — page 119, figure 2 of 3 (1299×151 px)*
 
-![Screenshot — page 119, figure 3 of 3](./images/page-119-img-3.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+ADMIN « Home > Beneficiary Profile > FLOWERS, EMILY (Active) Fiduciary UI20.103, Service 20.103
+View Audit History SS
+Flags
+BENEFICIARY PROFILE
+cogs tile, Dual P Fj mb
+```
+
+</details>
+
+![UI screenshot: ‘Status](./images/page-119-img-3.png)
 *Screenshot — page 119, figure 3 of 3 (1299×171 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+‘Status
+Open ¥
+[ © View Audit History |}¢———— | © Cancel } Save and Retumn
+```
+
+</details>
 
 ---
 

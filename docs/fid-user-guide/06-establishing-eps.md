@@ -28,14 +28,56 @@ For some EP types including 590UFUFE, 590FUFE, 590NFPFE, 590TFUFE, and 590SIAFE 
 
 When Face to Face Required is indicated, a claim note is added to the Notes section of the EP Overview page and the Beneficiary Profile. The note will include the reason face-to- face interaction is required.
 
-![Screenshot — page 59, figure 1 of 3](./images/page-059-img-1.jpeg)
+![UI screenshot: ADMIN «| Home > Beneficiary Profle > CARTER, MARTHA (Active) Fiduciary 820.104,](./images/page-059-img-1.jpeg)
 *Screenshot — page 59, figure 1 of 3 (1299×222 px)*
 
-![Screenshot — page 59, figure 2 of 3](./images/page-059-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+ADMIN «| Home > Beneficiary Profle > CARTER, MARTHA (Active) Fiduciary 820.104, Saree 20,104
+View Audit History > Cusnaicary tcraticn ——@§ >| + estabiisn ep |
+BENEFICIARY PROFILE —
+ews Beneficiary Name CARTER, MARTHA @ Alias
+Veteran information E
+Gender Female Competency Decision Not Rated Incompetent
+Beneficiary Information
+```
+
+</details>
+
+![UI screenshot: i x](./images/page-059-img-2.png)
 *Screenshot — page 59, figure 2 of 3 (1299×407 px)*
 
-![Screenshot — page 59, figure 3 of 3](./images/page-059-img-3.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+i x
+Establish EP
++ EP Type
+S9OIAFE - Initial Appointment Field Exam v
+* Date of Claim Value
+12/01/2022 [|
+@Assign to Me
+Team Hub Manager v
+```
+
+</details>
+
+![UI screenshot: GAssign to Me](./images/page-059-img-3.png)
 *Screenshot — page 59, figure 3 of 3 (1299×194 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+GAssign to Me
+Team Hub Manager
+l Y EP created with Claim ID: 600225459
+```
+
+</details>
 
 #### Selecting Face to Face Required from EP Establishment
 
@@ -59,11 +101,38 @@ claims are used to make corrections related to EP290 or EP590 claims that have b
 
 You can establish multiple EP930 claims of any type. Before you can establish an EP930 misuse or negligence determination claim, the previous EP290 misuse or negligence determination claim must be closed or canceled.
 
-![Screenshot — page 60, figure 1 of 2](./images/page-060-img-1.png)
+![UI screenshot: Face to Face Required](./images/page-060-img-1.png)
 *Screenshot — page 60, figure 1 of 2 (1299×446 px)*
 
-![Screenshot — page 60, figure 2 of 2](./images/page-060-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Face to Face Required
+Beneficiary Field Examiner SMITH, CARTER: 29403
+Fiduciary Field Examiner ROBINS, JOHN : 32901
+Beneficiary CARTER, MARTHA: 29403
+Fiduciary SMITH, JOHN : 32901
+© Assign to Field Examiner
+Why is face to face required?
+```
+
+</details>
+
+![UI screenshot: Development v 590TFUFE - Telephone Follow-Up Field Exam Info { Srl beneme }](./images/page-060-img-2.png)
 *Screenshot — page 60, figure 2 of 2 (1299×170 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Development v 590TFUFE - Telephone Follow-Up Field Exam Info { Srl beneme }
+Generate Report Of Field Exam
+eae Claim ID Beneficiary Name —_————>
+SMITH, LISA 600168789 SMITH, LISA
+```
+
+</details>
 
 You can select the Assign to Me check box to assign the claim to yourself, and choose a team from the list. If this check box is not selected, in most cases the claim will be routed in the same way as its corresponding EP290 or EP590.
 
@@ -77,14 +146,62 @@ claim you want to establish.
 
 Once an EP930 claim is established, it is processed in the same way as its corresponding EP290 or EP590.
 
-![Screenshot — page 61, figure 1 of 3](./images/page-061-img-1.png)
+![UI screenshot: Establish EP](./images/page-061-img-1.png)
 *Screenshot — page 61, figure 1 of 3 (1299×354 px)*
 
-![Screenshot — page 61, figure 2 of 3](./images/page-061-img-2.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+Establish EP
+EP Type
+930RIFELQFID - FID-Rev IA Field Exam Local Qty v
+Date of Claim Value
+12/01/2022 c] ]
+Assign to Me
+(ORT Submit
+```
+
+</details>
+
+![UI screenshot: ¥ 930RIFELGFID - FID - Rev IA Field Exam Local Qty Info { Suspend Benefts | | Ca](./images/page-061-img-2.png)
 *Screenshot — page 61, figure 2 of 3 (1299×329 px)*
 
-![Screenshot — page 61, figure 3 of 3](./images/page-061-img-3.png)
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+¥ 930RIFELGFID - FID - Rev IA Field Exam Local Qty Info { Suspend Benefts | | Cancel EP 930 | | Close EP 930 | nm
+Development - - -
+Field Exam Reports Claim ID Beneficiary Name {Transfer to Secondary Jurisdiction |
+BENEFICIARY 600412838 LILLY, MATTHEW
+LILLY, MATTHEW
+Claim Modifier Fiduciary Name
+LETTERS UI 932 & ‘SMITH, DEBRA
+Claim Date ‘Suspense Reason
+9/23/2024 Field Exam Assigned
+```
+
+</details>
+
+![UI screenshot: View Audit History > General Overview](./images/page-061-img-3.png)
 *Screenshot — page 61, figure 3 of 3 (1299×206 px)*
+
+<details>
+<summary>Screenshot text content (visible UI elements, labels, and data)</summary>
+
+```
+View Audit History > General Overview
+> | +£P930-REV Misuse | | + EP930-REV Negligence Determination
+MISUSE RECORDS
+General Overview ra
+Allegation 5
+08/04/2021
+Investigation Beneficiary
+; FLOWERS, EMILY
+```
+
+</details>
 
 ---
 
